@@ -38,10 +38,10 @@ public class quickShort {
 
         return i + 1;
     }
-    
     public static void imprimir(int[] arreglo) {
         System.out.println(Arrays.toString(arreglo));
     }
+    
 
     
     
